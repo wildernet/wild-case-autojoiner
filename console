@@ -1,9 +1,10 @@
 //SCRIPT BELOW IS THE AUTOJOINER
 
-function nakk() {
+function lord() {
 let socket = new WebSocket("wss://rblxwild.com/socket.io/?EIO=4&transport=websocket");
 authtoken = localStorage.getItem('authToken')
 socket.onopen = function(e) {
+
     if (event.data.startsWith(`42["authenticationResponse"`)) {
         socket.send(`42["casebattles:subscribe"]`)
     }
@@ -33,17 +34,17 @@ socket.onopen = function(e) {
 };
 
 socket.onclose = function(event) {
-console.log("SavNakk Rules RblxWild")
+console.log("Lord Rule RblxWild")
   ws.close()
-  nakk()
+  lord()
 };
 
 socket.onerror = function(error) {
   console.log(`[error]`)
-  nakk()
+  lord()
 };
 }
-nakk()
+lord()
 // THE SCRIPT BELOW IS THE AUTO ADVERTISER
 const inputElement = document.querySelector('input[data-v-5802b888]');
 const sendButton = document.querySelector('.general-box.box-green');
